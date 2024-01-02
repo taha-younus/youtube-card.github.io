@@ -147,7 +147,7 @@ nav{
 }
 .card-youtube:hover .upper {
     background-color: rgb(255, 139, 222);
-    opacity: 0.5;
+    opacity: 0.2;
     visibility: visible;
 }
 
